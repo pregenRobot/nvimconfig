@@ -36,13 +36,12 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
 call plug#end()
-
+set background=dark
 set tw=79
 
 let mapleader = ","
 let g:airline_theme="light"
 let g:tabline_theme="light"
-
 " ncm2 settings
 autocmd BufEnter * call ncm2#enable_for_buffer()
 set completeopt=menuone,noselect,noinsert
