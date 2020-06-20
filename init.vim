@@ -36,7 +36,10 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
 call plug#end()
-
+"hh
+"h
+"h
+"h
 set tw=79
 
 let mapleader = ","
