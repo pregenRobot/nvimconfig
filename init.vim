@@ -131,7 +131,7 @@ let g:jedi#popup_on_dot = 0
 let g:jedi#completions_command = ""
 let g:jedi#show_call_signatures = "1"
 
-let g:python3_host_prog ='/usr/local/anaconda3/envs/py35/bin/python'
+"let g:python3_host_prog ='/usr/local/anaconda3/envs/py35/bin/python'
 
 
 
